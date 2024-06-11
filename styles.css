@@ -1,15 +1,14 @@
-/* styles.css */
 body {
     font-family: 'Montserrat', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #3843A4;
-    color: #FFFFFF;
+    background-color: #FFFFFF; /* White background */
+    color: #000000; /* Black font color */
     line-height: 1.6;
 }
 
 header {
-    background-color: #FF7F50; /* Coral background for the header */
+    background-color: #3843A4; /* Deep blue background for the header */
     color: #FFFFFF;
     padding: 40px 0;
     text-align: center;
@@ -53,7 +52,7 @@ section {
 }
 
 section h2 {
-    color: #FF7F50; /* Coral for section headers */
+    color: #3843A4; /* Deep blue for section headers */
     font-size: 2em;
     border-bottom: 2px solid #ddd;
     padding-bottom: 10px;
@@ -62,7 +61,7 @@ section h2 {
 
 section p {
     margin: 10px 0;
-    color: #D1D1D1;
+    color: #000000; /* Black font color */
     font-size: 1.2em;
 }
 
@@ -77,7 +76,7 @@ footer {
 }
 
 footer a {
-    color: #FF7F50; /* Coral for links */
+    color: #3843A4; /* Deep blue for links */
     text-decoration: none;
 }
 
